@@ -1,4 +1,4 @@
-# 생독학러 🔥
+# Python 원툴 뉴비 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tuna200538)](https://solved.ac/tuna200538/)
 
 ### Languages
