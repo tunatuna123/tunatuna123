@@ -1,6 +1,7 @@
 # Python 원툴 뉴비 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tuna200538)](https://solved.ac/tuna200538/)
-LEE.H.J
+
+# LEE.H.J
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
