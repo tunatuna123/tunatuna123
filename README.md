@@ -1,7 +1,7 @@
 ## 👋ABOUT ME
 
 
-🏫 ***HCU 19*** Lee HyunJun
+🏫 ***HCU 19*** / Lee HyunJun / 19 / M
 
 SAMDI
 
